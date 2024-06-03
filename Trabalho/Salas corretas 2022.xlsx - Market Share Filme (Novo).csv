@@ -1,0 +1,771 @@
+Pos,Filme,Distribuidor,País,Data Estr.,Sala E.,Cine E.,Sem,publico
+1,Doutor Estranho no multiverso da loucura,Disney,EUA,5/5/2022,2.671,720,33,8.489.795
+2,Minions 2 - A origem de Gru,Universal,EUA,6/30/2022,2.175,734,27,6.983.319
+3,Thor - Amor e trovão,Disney,EUA,7/7/2022,2.307,708,22,6.449.997
+4,Batman,Warner,EUA,3/3/2022,2.529,723,38,5.916.556
+5,Homem-Aranha - Sem volta para casa,Sony,EUA,12/16/2021,2.974,709,54,5.910.572
+6,Avatar - O caminho da água,Disney,EUA,12/15/2022,2.914,752,3,5.792.764
+7,Pantera Negra - Wakanda para sempre,Disney,EUA,11/10/2022,2.484,725,8,5.715.365
+8,Top Gun - Maverick,Paramount,EUA,5/26/2022,1.768,706,30,5.063.555
+9,Adão Negro,Warner,EUA,10/20/2022,2.208,740,11,4.373.362
+10,Jurassic World - Domínio,Universal,EUA,6/2/2022,1.982,727,30,3.963.988
+11,Sonic 2 - O filme,Paramount,EUA,4/7/2022,1.808,660,37,3.199.050
+12,Animais fantásticos - Os segredos de Dumbledore,Warner,EUA,4/14/2022,1.745,700,36,2.631.693
+13,Órfã 2 - A origem,Diamond,EUA,9/15/2022,1.242,685,10,2.145.472
+14,Sing 2,Universal,EUA,1/6/2022,1.173,624,52,1.618.985
+15,Uncharted - Fora do mapa,Sony,EUA,2/17/2022,1.359,639,38,1.481.056
+16,"Telefone preto, O",Universal,EUA,7/21/2022,916,606,13,1.304.906
+17,Lightyear,Disney,EUA,6/16/2022,1.692,691,26,1.287.243
+18,Morbius,Sony,EUA,3/31/2022,1.903,655,8,1.263.640
+19,"Mulher rei, A",Sony,EUA,9/22/2022,1.006,611,15,1.227.936
+20,Elvis,Warner,EUA,7/14/2022,895,624,12,1.112.988
+21,Sorria,Paramount,EUA,9/29/2022,752,575,12,1.024.741
+22,Pânico 5,Paramount,EUA,1/13/2022,952,587,16,912.915
+23,DC Liga dos SuperPets,Warner,EUA,7/28/2022,1.267,700,23,878.551
+24,Não! Não olhe!,Universal,EUA,8/25/2022,680,470,16,831.454
+25,Turma da Mônica - Lições,DT/Paris,Brasil,12/30/2021,968,553,50,766.126
+26,Ingresso para o paraíso,Universal,EUA,9/8/2022,764,566,13,735.637
+27,Trem-bala,Sony,EUA,8/4/2022,1.128,611,12,622.285
+28,"Aventuras de Tadeo e a Tábua de Esmeralda, As",Paramount,Espanha,10/6/2022,1.038,676,13,613.812
+29,Mundo estranho,Disney,EUA,11/24/2022,1.485,654,6,579.422
+30,Tô ryca 2,DT/Paris,Brasil,2/3/2022,737,539,11,525.639
+31,"Caras malvados, Os",Universal,EUA,3/17/2022,1.269,691,39,507.503
+32,Cidade perdida,Paramount,EUA,4/21/2022,659,480,11,492.354
+33,Moonfall - Ameaça lunar,Diamond/Galeria,EUA,2/3/2022,1.093,616,8,477.353
+34,Medida Provisória,Elo Studios/H2O Films,Brasil,4/14/2022,265,194,34,471.625
+35,Detetives do Prédio Azul 3 - Uma aventura no fim do mundo,DT/Paris,Brasil,4/28/2022,905,576,34,431.900
+36,Matrix Resurrections,Warner,EUA,12/22/2021,788,561,17,410.729
+37,Halloween ends,Universal,EUA,10/13/2022,1.434,691,7,408.420
+38,Eduardo e Mônica,DT/Paris,Brasil,1/20/2022,717,551,25,406.851
+39,Exorcismo sagrado,Imagem,EUA,2/10/2022,693,491,9,394.458
+40,Avatar,Disney,EUA,12/18/2009,588,347,671,391.827
+41,"Luz do demônio, A",Paris,EUA,11/2/2022,641,479,8,370.036
+42,One Piece film - Red,Diamond/Galeria,Japão,11/2/2022,532,448,9,362.226
+43,"Lilo, Lilo, Crocodilo",Sony,EUA,11/2/2022,658,523,10,339.691
+44,Dragon Ball Super - Super hero,Sony,Japão,8/18/2022,1.065,599,11,337.877
+45,"Lendário cão guerreiro, O",Paramount,EUA,8/25/2022,826,554,16,336.128
+46,Morte no Nilo,Disney,EUA,2/10/2022,631,448,15,311.081
+47,"Homem do Norte, O",Universal,Reino Unido,5/12/2022,501,407,10,275.550
+48,Jujutsu Kaisen 0,Sony,Japão,4/28/2022,658,410,6,268.385
+49,Predestinado,Imagem,Brasil,9/1/2022,767,555,9,265.967
+50,"Fera, A",Universal,EUA,8/11/2022,885,649,9,262.351
+51,Juntos e enrolados,Imagem,Brasil,1/13/2022,497,402,7,249.957
+52,Harry Potter e a câmara secreta,Warner,EUA,11/22/2002,0,0,0,230.780
+53,Coração de fogo,Paris,Canadá,2/24/2022,910,481,42,215.423
+54,King's Man - A origem,Disney,Reino Unido,1/6/2022,571,419,6,196.248
+55,Tudo em todo o lugar ao mesmo tempo,Diamond,EUA,6/23/2022,183,138,28,187.371
+56,"Não se preocupe, querida",Warner,EUA,9/22/2022,458,381,10,177.736
+57,Noite infeliz,Universal,EUA,12/1/2022,625,506,5,175.270
+58,After - Depois da promessa,Diamond/Galeria,EUA,8/25/2022,662,559,7,163.312
+59,Ambulância - Um dia de crime,Universal,EUA,3/24/2022,805,582,14,152.874
+60,"Lugar bem longe daqui, Um",Sony,EUA,9/1/2022,705,475,8,148.691
+61,Nada é por acaso,Imagem,Brasil,11/17/2022,519,420,7,147.569
+62,Amsterdam,Disney,EUA,10/6/2022,404,254,11,130.023
+63,Convite maldito,Sony,EUA,10/27/2022,648,501,7,129.194
+64,Pluft - O fantasminha,DT/Paris,Brasil,7/21/2022,727,448,22,126.996
+65,"Palestrante, O",DT/Paris,Brasil,8/4/2022,613,452,7,126.383
+66,"Menu, O",Disney,EUA,12/1/2022,371,233,5,122.603
+67,Caça implacável,Diamond/Galeria,EUA,10/13/2022,612,461,5,112.787
+68,"Última chamada, A",Cinemark,EUA,9/1/2022,117,79,7,112.619
+69,"Morte, morte, morte",Sony,EUA,10/6/2022,632,420,10,107.963
+70,Spencer,Diamond/Galeria,Alemanha,1/27/2022,413,338,23,106.920
+71,"Queda, A",Paris,EUA,9/29/2022,490,407,5,103.047
+72,Marte um,Embaúba Filmes,Brasil,8/25/2022,29,26,19,87.877
+73,"Pitada de sorte, Uma",DT/Paris,Brasil,9/15/2022,256,216,5,86.430
+74,"Suburbanos, Os",DT/Paris,Brasil,10/6/2022,518,384,4,85.435
+75,"Beco do pesadelo, O",Disney,EUA,1/27/2022,263,209,19,83.842
+76,"Ritual - Presença maligna, O",Playarte,Reino Unido,3/17/2022,354,273,6,82.355
+77,Agente das sombras,California,Austrália,3/10/2022,374,318,4,78.975
+78,Assassino sem rastro,Diamond/Galeria,EUA,6/9/2022,362,295,5,78.965
+79,Gêmeo maligno,Paris,Finlândia,8/11/2022,388,320,6,76.948
+80,Crepúsculo,Paris,EUA,12/19/2008,518,210,730,76.437
+81,BTS - Permission to dance on stage - Seoul,Trafalgar,Coréia do Sul,3/12/2022,218,156,1,74.794
+82,Terrifier 2,Imagem,EUA,12/29/2022,678,486,1,74.189
+83,Pinocchio - O menino de madeira,Playarte,Rússia,9/7/2022,216,168,16,72.749
+84,Bem-vinda a Quixeramobim,DT/Paris,Brasil,10/13/2022,58,38,12,71.690
+85,"Agentes 355, As",Diamond/Galeria,EUA,1/20/2022,553,437,10,69.824
+86,"Médium, A",Paris,Tailândia,5/19/2022,312,248,6,68.368
+87,Case comigo,Universal,EUA,2/10/2022,541,436,9,58.549
+88,Licorice Pizza,Universal,EUA,2/17/2022,116,109,24,57.691
+89,Belfast,Universal,Reino Unido,3/10/2022,120,94,15,56.744
+90,Encanto,Disney,EUA,11/25/2021,1.259,622,58,52.933
+91,Festival Varilux 2022,Festival Varilux,França,6/21/2022,5,5,18,52.539
+92,Irmãos de honra,Diamond,EUA,12/8/2022,420,330,4,52.400
+93,"Pior pessoa do mundo, A",Diamond,Noruega,3/24/2022,23,20,39,51.421
+94,Papai é pop,Diamond/Galeria,Brasil,8/11/2022,718,544,10,51.010
+95,X - A marca da morte,Playarte,EUA,8/11/2022,268,245,7,50.440
+96,"Boa sorte, Leo Grande",Paris,Reino Unido,7/28/2022,107,85,15,45.142
+97,"Maldição do quarto 203, A",Playarte,EUA,12/1/2022,247,200,5,43.097
+98,"Hora do desespero, A",Paris,EUA,6/9/2022,355,283,8,41.093
+99,Alemão 2,Manequim Filmes,Brasil,3/31/2022,278,238,8,41.082
+100,Tubarão - Mar de sangue,Paris,Reino Unido,12/1/2022,371,292,5,39.782
+101,Veja por mim,Paris,Canadá,6/23/2022,273,212,7,38.820
+102,Era uma vez um gênio,Paris,EUA,9/1/2022,424,320,11,38.658
+103,A saga Crepúsculo - Lua nova,Paris,EUA,11/20/2009,839,338,683,36.593
+104,Me tira da mira,Imagem,Brasil,3/24/2022,487,377,3,35.879
+105,"Aventuras de Gulliver, As",Imagem,Ucrânia,2/3/2022,501,401,42,35.270
+106,Festival do Rio 2022,Festivais,Brasil,10/6/2022,15,6,12,34.610
+107,Drive my car,O2 Play,Japão,3/17/2022,63,60,42,33.311
+108,Chamas da vingança,Universal,EUA,5/19/2022,445,346,7,32.195
+109,Coldplay - Live broadcast from Buenos Aires,Distribuição Própria,Reino Unido,10/27/2022,229,212,3,32.155
+110,Dog - A aventura de uma vida,Diamond/Galeria,EUA,5/19/2022,328,262,6,30.151
+111,Minha família perfeita,Disney,Brasil,9/8/2022,206,177,5,29.996
+112,My Hero Academia - Missão mundial de heróis,Sony,Japão,1/6/2022,53,50,9,29.963
+113,Epa 2: A aventura continua,Playarte,Irlanda,3/31/2022,291,210,29,29.707
+114,Acampamento intergaláctico,Synapse,Brasil,9/22/2022,83,79,11,28.945
+115,Até os ossos,Warner,Itália,12/1/2022,208,167,5,28.925
+116,45 do segundo tempo,DT/Paris,Brasil,8/18/2022,260,235,9,27.372
+117,"Festival do amor, O",Imagem,Espanha,1/6/2022,95,80,43,26.309
+118,Até a morte - Sobreviver é a melhor vingança,Playarte,EUA,6/9/2022,229,183,4,26.065
+119,"Peso do talento, O",Paris,EUA,5/12/2022,270,236,5,25.979
+120,Purgatório - Segredos revelados,Kolbe Arte Produções,Polônia,10/24/2022,60,44,8,25.929
+121,Moonage daydream,Universal,Alemanha,9/15/2022,22,20,16,25.767
+122,Aftersun,O2 Play/Mubi,Reino Unido,12/1/2022,37,32,5,25.631
+123,A saga Crepúsculo: Amanhecer - Parte 1,Paris,EUA,11/18/2011,1.115,419,580,24.267
+124,Downton Abbey - Uma nova era,Universal,Reino Unido,4/28/2022,154,109,7,23.683
+125,"Jaula, A",Disney,Brasil,2/17/2022,244,212,4,22.978
+126,Casa Gucci,Universal,EUA,11/25/2021,709,483,22,22.503
+127,"Pronto, falei",Imagem,Brasil,12/8/2022,419,353,3,22.442
+128,Festivais e Mostras 2022,Festivais,Brasil,2/10/2022,1,1,46,21.950
+129,46ª Mostra Internacional de Cinema SP 2022,Distribuição Própria,Brasil,10/20/2022,9,5,2,21.222
+130,A saga Crepúsculo - Eclipse,Paris,EUA,6/30/2010,956,377,653,19.629
+131,"Maldição - Despertar dos mortos, A",Diamond,Coréia do Sul,11/17/2022,145,117,5,19.526
+132,ET - O extraterrestre,Universal,EUA,7/23/2015,82,47,388,18.476
+133,Mais que amigos,Universal,EUA,10/6/2022,188,144,6,18.441
+134,Eike - Tudo ou nada,DT/Paris,Brasil,9/22/2022,232,197,7,18.380
+135,Maria - Ninguém sabe quem sou eu,Arteplex Filmes,Brasil,9/1/2022,32,31,15,18.231
+136,Men - Faces do medo,Paris,Reino Unido,9/8/2022,112,95,5,17.983
+137,Força bruta,Paris,Coréia do Sul,11/24/2022,331,251,2,17.058
+138,Pureza,DT/Paris,Brasil,5/19/2022,144,117,24,16.929
+139,Coração ardente,Kolbe Arte Produções,Espanha,3/10/2022,52,51,16,16.871
+140,Meu amigãozão - O filme,O2 Play,Brasil,5/12/2022,145,127,32,16.845
+141,"Tesouro do pequeno Nicolau, O",California,França,12/22/2022,94,83,2,16.489
+142,"Felicidade das pequenas coisas, A",Pandora Filmes,Butão,1/27/2022,3,3,49,16.389
+143,Sra. Harris vai a Paris,Universal,Reino Unido,11/24/2022,99,77,6,16.300
+144,Amigo secreto,Vitrine Filmes,Brasil,6/16/2022,47,43,27,15.275
+145,Tarsilinha,H2O Films,Brasil,3/17/2022,105,87,31,14.363
+146,Quatro amigas numa fria,Disney,Brasil,5/19/2022,213,174,6,14.243
+147,Luta pela fé - A história do padre Stu,Sony,EUA,5/26/2022,241,191,4,14.000
+148,Benedetta,Imovision,França,1/13/2022,37,32,14,13.048
+149,Com amor e fúria,Synapse,França,11/3/2022,30,27,9,12.895
+150,Vivo - Quem está aí?,Distribuição Própria,Espanha,6/14/2022,103,76,20,12.164
+151,Ela disse,Universal,EUA,12/8/2022,115,86,4,12.161
+152,Crocodilos - A morte te espera,Playarte,Austrália,5/12/2022,119,109,2,12.120
+153,Sempre em frente,Diamond/Galeria,EUA,2/17/2022,60,49,21,12.069
+154,"Poderoso chefão - 50 anos, O",Paramount,EUA,9/2/2014,0,0,434,12.059
+155,Armageddon time,Universal,EUA,11/10/2022,22,20,8,11.805
+156,Festival Italiano 2022,Festivais,Itália,7/28/2022,8,7,18,11.719
+157,Crimes of the future,O2 Play,Canadá,7/14/2022,18,18,22,11.533
+158,"Viagem de Pedro, A",Vitrine Filmes,Brasil,9/1/2022,64,54,7,11.133
+159,No ritmo do coração,Diamond,EUA,9/23/2021,396,342,49,11.080
+160,Vale night,Disney,Brasil,3/17/2022,177,155,2,10.879
+161,"Amor dá voltas, O",Imagem,Brasil,12/22/2022,169,139,2,10.525
+162,Super quem?,Paris,França,10/27/2022,172,142,4,9.499
+163,Ligação explosiva,Diamond/Galeria,Coréia do Sul,11/24/2022,116,94,2,8.671
+164,A saga Crepúsculo: Amanhecer - Parte 2,Paris,EUA,11/16/2012,1.219,469,529,8.371
+165,Chico para sempre,Film Connection,Brasil,10/13/2022,54,49,10,8.344
+166,"Livro dos prazeres, O",Vitrine Filmes,Brasil,9/22/2022,30,27,12,8.325
+167,Má sorte no sexo ou pornô acidental,Imovision,Romênia,6/2/2022,18,18,29,8.310
+168,Na rédea curta,Elo Studios,Brasil,12/1/2022,44,41,5,8.196
+169,Noites de Paris,Vitrine Filmes,França,10/20/2022,14,14,11,8.121
+170,Twenty One Pilots cinema experience,Trafalgar,EUA,5/19/2022,67,57,1,7.693
+171,"Suspeita, A",Imagem,Brasil,6/16/2022,112,96,4,7.477
+172,Final UEFA 2022,Distribuição Própria,Brasil,5/28/2022,65,60,1,7.313
+173,Sword art online progressive - Ária de uma noite sem estrelas,Sony,Japão,3/10/2022,43,38,7,7.190
+174,Tre piani,Imovision,França,4/7/2022,19,19,39,7.110
+175,"Croods 2 - Uma nova era, Os",Universal,EUA,7/1/2021,1.151,579,77,7.041
+176,Ilusões perdidas,California,França,6/9/2022,19,16,20,7.029
+177,Tromba trem - O filme,Manequim Filmes,Brasil,9/8/2022,143,128,8,7.014
+178,Seventeen power of love - The movie,Trafalgar,Coréia do Sul,4/14/2022,66,64,2,6.959
+179,"Acusação, A",Imovision,França,10/27/2022,22,20,10,6.435
+180,"Summer of soul (... ou, quando a revolução não pode ser televisionada)",Disney,EUA,1/27/2022,6,6,20,6.100
+181,"Herói, Um",California,França,7/28/2022,30,26,9,5.815
+182,Paradise – Uma nova vida,Arteplex Filmes,Itália,7/21/2022,15,14,23,5.775
+183,Madre Teresa - Amor maior não há,Kolbe Arte Produções,EUA,11/21/2022,96,93,4,5.456
+184,"Nossos filhos, Aos",Imovision,Brasil,7/28/2022,22,20,16,5.349
+185,"Noite do triunfo, A",Imovision,França,4/21/2022,18,17,23,5.337
+186,"Acontecimento, O",Zeta Filmes,França,7/7/2022,29,27,18,5.260
+187,NCT Dream the movie - In a dream,Trafalgar,Coréia do Sul,11/30/2022,59,55,2,5.215
+188,Memoria,O2 Play,Colômbia,7/21/2022,17,17,7,4.973
+189,The Beatles: Get back - O último show,Disney,EUA,2/10/2022,12,12,1,4.970
+190,"Bardo, falsa crônica de algumas verdades",O2 Play,México,11/17/2022,38,38,5,4.957
+191,"Destino de Haffmann, O",Synapse,França,8/11/2022,19,18,12,4.877
+192,Belle,Paris,Japão,1/27/2022,148,123,11,4.836
+193,Flee - Nenhum lugar para chamar de lar,Diamond/Galeria,Dinamarca,4/21/2022,38,33,15,4.825
+194,"Amor, sublime amor",Disney,EUA,12/9/2021,365,269,18,4.741
+195,"Clube dos anjos, O",Vitrine Filmes,Brasil,11/3/2022,32,31,7,4.724
+196,Muco - Contradição na tradição,Guruji Filmes,Brasil,12/8/2022,10,10,4,4.641
+197,"Criança do diabo, A",Cinecolor,Colômbia,4/28/2022,52,47,1,4.629
+198,Amantes,Pandora Filmes,França,9/15/2022,32,29,6,4.625
+199,Carvão,Pandora Filmes,Brasil,11/3/2022,22,21,9,4.620
+200,Roda do destino,Pandora Filmes,Japão,1/6/2022,16,15,52,4.600
+201,"Ennio, o maestro",Bonfilm,Itália,9/29/2022,19,18,12,4.457
+202,"Debate, O",DT/Paris,Brasil,8/25/2022,122,102,7,4.441
+203,King Richard - Criando campeãs,Warner,EUA,12/2/2021,358,289,39,4.383
+204,Ruído branco,O2 Play,EUA,12/8/2022,36,34,4,4.081
+205,Kobra auto-retrato,Imovision,Brasil,11/17/2022,23,17,6,4.078
+206,"Ilha de Bergman, A",Pandora Filmes,França,2/24/2022,23,20,32,4.002
+207,"Primeiros soldados, Os",Olhar Distribuição,Brasil,7/7/2022,7,7,13,3.958
+208,Sistema bruto,Do2,Brasil,9/29/2022,126,120,3,3.871
+209,"Senhor dos anéis - As duas torres, O",Warner,EUA,12/27/2002,0,0,0,3.720
+210,"Luta de uma vida, A",Diamond/Galeria,Canadá,9/8/2022,73,62,3,3.700
+211,Lola e seus irmãos,Pandora Filmes,França,7/7/2022,21,21,9,3.690
+212,Pinóquio,O2 Play,EUA,11/24/2022,21,19,6,3.673
+213,"Farsa, A",Diamond,França,12/22/2022,20,20,2,3.619
+214,"Fratura, A",Imovision,França,5/5/2022,14,13,6,3.575
+215,"Santo de todos - A vida e missão de Santo Antônio Maria Claret, O",Kolbe Arte Produções,Espanha,10/6/2022,55,48,7,3.554
+216,Esperando Bojangles,California,Bélgica,11/3/2022,28,20,5,3.540
+217,Paloma,Pandora Filmes,Brasil,11/10/2022,20,18,8,3.526
+218,"Crônica francesa, A",Disney,EUA,11/18/2021,58,47,12,3.434
+219,1982,Estúdio Escarlate,Libano,6/2/2022,20,19,8,3.374
+220,Além da lenda - O filme,Boulevard Filmes,Brasil,8/4/2022,16,16,12,3.262
+221,Marighella,DT/Paris,Brasil,11/4/2021,340,281,55,3.152
+222,"Traidor, O",Pandora Filmes,Itália,4/14/2022,25,23,10,3.077
+223,Homens à beira de um ataque de nervos,Synapse,França,10/13/2022,25,21,6,3.034
+224,Ainbo - A guerreira da Amazônia,Paris,Peru,9/30/2021,504,373,66,3.014
+225,"Próximo passo, O",Bonfilm,França,9/8/2022,19,18,10,2.861
+226,Entre rosas,California,França,9/1/2022,29,21,9,2.821
+227,Está tudo bem,California,França,6/2/2022,24,22,6,2.740
+228,Duetto,Imagem,Brasil,9/29/2022,113,105,8,2.713
+229,Encontros,Pandora Filmes,Coréia do Sul,9/1/2022,8,8,18,2.702
+230,"Homem ideal, O",Diamond/Galeria,Alemanha,12/23/2021,6,6,15,2.645
+231,"Mulher de um espião, A",Zeta Filmes,Japão,3/31/2022,11,11,31,2.588
+232,Clarice Lispector - A descoberta do mundo,Anagrama Filmes,Brasil,12/8/2022,11,11,4,2.584
+233,"Paris, 13º distrito",California,França,4/28/2022,12,9,7,2.452
+234,Serial Kelly,Vitrine Filmes,Brasil,11/24/2022,26,26,6,2.447
+235,Duna,Warner,Canadá,10/21/2021,1.047,621,26,2.331
+236,Aline - A voz do amor,Imovision,França,6/16/2022,19,17,10,2.299
+237,Mentes extraordinárias,California,França,5/19/2022,11,11,4,2.274
+238,Ela e eu,Disney,Brasil,7/21/2022,11,11,9,2.260
+239,Eu não choro,Arteplex Filmes,Polônia,1/20/2022,15,15,32,2.186
+240,Kompromat - O dossiê russo,Mares Filmes/Polifilmes,França,9/29/2022,26,22,5,2.117
+241,Onoda - 10 mil noites na selva,Imovision,França,8/25/2022,19,16,9,2.108
+242,Miss França,Pandora Filmes,França,5/19/2022,14,14,8,2.092
+243,"Perdão, O",Imovision,Irã,9/22/2022,7,5,15,2.081
+244,"Eu, Christiane F., 13 anos, drogada e prostituída - Edição 40 anos",A2 Filmes,Alemanha,7/28/2022,6,6,6,2.047
+245,"Poderoso chefinho 2 - Negócios da família, O",Universal,EUA,8/12/2021,1.188,662,70,2.045
+246,Abestalhados 2,Disney,Brasil,10/27/2022,69,45,3,2.008
+247,"Amores dela, Os",Imovision,França,7/21/2022,7,6,10,2.001
+248,Pequena mamãe,Diamond,França,3/3/2022,6,6,21,1.987
+249,Seventeen world tour - Be the sun,Distribuição Própria,Coréia do Sul,8/21/2022,35,33,2,1.987
+250,Incompatível,Disney,Brasil,4/28/2022,31,26,22,1.977
+251,Clara Sola,Imovision,Suécia,8/11/2022,10,10,8,1.972
+252,Delicioso - Da cozinha para o mundo,Playarte,França,2/10/2022,19,17,19,1.965
+253,XVIII Panorama Internacional Coisa de Cinema 2022,Distribuição Própria,Brasil,11/3/2022,3,1,1,1.936
+254,Peter Von Kant,Bonfilm,França,10/20/2022,18,18,6,1.924
+255,Il buco,Zeta Filmes,França,8/11/2022,12,12,20,1.923
+256,Contratempos,Bonfilm,França,11/10/2022,10,10,5,1.889
+257,De volta à Borgonha,Bretz Filmes,França,8/18/2022,7,6,8,1.885
+258,"Felicidade das coisas, A",Embaúba Filmes,Brasil,5/19/2022,11,11,32,1.854
+259,"Pacto, O",A2 Filmes,Dinamarca,4/7/2022,19,17,9,1.772
+260,"Mulher que fugiu, A",Pandora Filmes,Coréia do Sul,2/10/2022,16,16,33,1.757
+261,Amor de redenção,Cinecolor,EUA,6/9/2022,33,31,2,1.737
+262,"Verdades, As",Gullane Distribuidora,Brasil,6/30/2022,14,14,8,1.700
+263,"Segredo de Madeleine Collins, O",Synapse,França,9/22/2022,17,12,4,1.673
+264,Des-igualdade,A2 Filmes,Brasil,10/25/2022,7,3,2,1.662
+265,Madrugada em Paris,Bonfilm,França,3/24/2022,22,19,4,1.659
+266,Astro - Stargazer: Astroscope,Trafalgar,Coréia do Sul,10/27/2022,39,37,1,1.651
+267,Clifford - O gigante cão vermelho,Paramount,EUA,12/2/2021,540,427,53,1.650
+268,"Chef, O",Synapse,Reino Unido,9/1/2022,6,5,4,1.635
+269,Pedro Coelho 2 - O fugitivo,Sony,EUA,8/26/2021,734,505,69,1.630
+270,League of Legends 2022,Distribuição Própria,Brasil,11/5/2022,15,14,1,1.615
+271,Assalto na Paulista,O2 Play/Kinoscopio,Brasil,8/25/2022,21,21,6,1.614
+272,"Broto legal, Um",Pandora Filmes,Brasil,6/16/2022,25,21,9,1.602
+273,Segredos em família,Imovision,Chile,10/13/2022,8,7,8,1.586
+274,Space jam - Um novo legado,Warner,EUA,7/15/2021,976,598,67,1.583
+275,"Mãe, A (2022)",CUP Filmes,Brasil,11/10/2022,15,13,8,1.518
+276,Bem-vindos a bordo,Synapse,França,12/8/2022,17,15,4,1.490
+277,Espero que esta te encontre e que estejas bem,Embaúba Filmes,Brasil,6/9/2022,15,15,12,1.448
+278,A-ha - True North,Trafalgar,Noruega,9/15/2022,41,39,1,1.443
+279,Enquanto vivo,Bonfilm,França,6/9/2022,22,20,5,1.424
+280,"Adeus, idiotas",Polifilmes/Mares Filmes,França,2/24/2022,9,9,4,1.403
+281,Proibido nascer no paraíso,Boulevard Filmes,Brasil,4/15/2021,0,0,88,1.369
+282,"Território, O",National Geographic Documentary Films,Brasil,9/8/2022,14,13,5,1.369
+283,Super show 8 - Tempo infinito,Cinecolor,Coréia do Sul,2/24/2022,65,63,2,1.359
+284,"Se eu contar, você escuta?",Distribuição Própria,Brasil,5/19/2022,4,3,4,1.347
+285,Rua Guaicurus,Embaúba Filmes,Brasil,7/14/2022,9,8,23,1.339
+286,Terror no estúdio 666,Sony,EUA,3/17/2022,17,15,2,1.326
+287,Seguindo Todos os Protocolos,Vitrine Filmes,Brasil,6/30/2022,11,11,18,1.316
+288,Amado,DT/Paris,Brasil,6/9/2022,22,18,2,1.303
+289,Garota inflamável,Pandora Filmes,Alemanha,7/14/2022,8,8,12,1.288
+290,Final da Liga Brasileira de Free Fire 7 (2022),Distribuição Própria,Brasil,4/16/2022,20,20,1,1.265
+291,Ataque dos cães,O2 Play,Reino Unido,11/18/2021,8,8,22,1.249
+292,Luta pela liberdade,A2 Filmes,China,8/18/2022,15,14,4,1.246
+293,"Conferência, A",A2 Filmes,Alemanha,11/3/2022,9,9,5,1.242
+294,"Pai da Rita, O",O2 Play,Brasil,5/19/2022,29,25,6,1.225
+295,"Lima Barreto, ao terceiro dia",Pipa Produções,Brasil,9/29/2022,17,17,5,1.197
+296,Carro rei,Boulevard Filmes,Brasil,6/30/2022,16,16,23,1.163
+297,"Truque da galinha, O",Imovision,França,6/23/2022,7,5,8,1.146
+298,Viúva Negra,Disney,EUA,7/8/2021,1.699,565,74,1.130
+299,1999 - A conquista da América,Elo Studios,Brasil,3/31/2022,1,1,3,1.122
+300,Festival Fantaspoa 2022,Festivais,Brasil,4/15/2022,2,2,3,1.115
+301,Cano serrado,H2O Films,Brasil,8/25/2022,52,43,3,1.115
+302,Top Gun - Ases Indomáveis (1986),Park Circus,EUA,8/6/2014,0,0,432,1.112
+303,De repente drag,Elo Studios,Brasil,8/4/2022,10,10,8,1.108
+304,Meu álbum de amores,Pandora Filmes,Brasil,8/18/2022,17,17,6,1.104
+305,Deserto particular,Pandora Filmes,Brasil,11/25/2021,18,18,35,1.100
+306,"Conto de amor e desejo, Um",Bonfilm,França,4/28/2022,13,13,5,1.085
+307,"Dia qualquer, Um",Pipa Produções,Brasil,6/23/2022,22,20,7,1.079
+308,Gyuri,Descoloniza Filmes,Brasil,7/7/2022,9,9,10,1.076
+309,Pacificado,Disney,Brasil,8/11/2022,37,32,3,1.074
+310,Lara,Imovision,Alemanha,12/30/2021,4,4,12,1.065
+311,Rogue One - Uma história Star Wars,Disney,EUA,12/15/2016,1.396,615,300,1.009
+312,Pequenos guerreiros,Sereia Filmes,Brasil,12/1/2022,6,6,5,1.005
+313,"Mulher do mundo, Uma",Imovision,França,12/8/2022,6,6,4,997
+314,Garoto chiffon,Imovision,França,3/24/2022,14,13,6,996
+315,"Pequeno grande plano, Um",Synapse,França,8/18/2022,7,6,5,996
+316,Klondike - A guerra na Ucrânia,Pandora Filmes,Ucrânia,5/5/2022,13,13,33,995
+317,Amigos de risco,Inquieta,Brasil,5/19/2022,8,8,31,990
+318,Decisão de partir,Diamond,Coréia do Sul,1/5/2023,22,21,0,983
+319,Caixa preta,Bonfilm,França,4/7/2022,16,15,2,979
+320,Meu tricolor de aço 2 - Um sonho que liberta,Estação Luz Filmes,Brasil,4/14/2022,10,8,3,976
+321,Fortaleza Hotel,Vitrine Filmes,Brasil,1/27/2022,14,13,14,964
+322,Águas selvagens,Imagem,Brasil,5/12/2022,42,35,2,960
+323,Vitalina Varela,Zeta Filmes,Portugal,4/14/2022,8,8,38,951
+324,"Família Addams 2 - Pé na estrada, A",Universal,EUA,10/28/2021,1.056,637,48,913
+325,Rir para não chorar,Elo Studios,Brasil,10/20/2022,26,24,6,886
+326,Mali twist,Imovision,França,11/24/2022,6,6,6,883
+327,Amira,Imovision,Egito,9/8/2022,6,6,11,851
+328,Patrulha Canina - O filme,Paramount,EUA,9/9/2021,826,495,61,846
+329,Mateína - A Erva Perdida,Lança Filmes,Uruguai,3/31/2022,6,6,9,822
+330,30º Festival Mix Brasil 2022,Distribuição Própria,Diversos,11/10/2022,2,1,1,818
+331,Festival do Rio 2021,Festivais,Brasil,12/9/2021,6,4,40,817
+332,Ménage,Lira Filmes,Brasil,3/17/2022,13,13,4,817
+333,Fé e fúria,Embaúba Filmes,Brasil,10/13/2022,11,11,5,810
+334,11º Olhar de Cinema - Festival Int. de CTBA,Cinemark,,6/2/2022,2,1,1,807
+335,Undine,Imovision,Alemanha,12/23/2021,10,10,52,796
+336,"Jangada de Welles, A",Sereia Filmes,Brasil,6/23/2022,9,9,9,774
+337,Casa de antiguidades,Pandora Filmes,Brasil,7/21/2022,9,9,10,754
+338,Segredos de Putumayo,O2 Play,Brasil,9/1/2022,8,8,16,746
+339,@Arthur.Rambo - Ódio nas redes,Vitrine Filmes,França,5/12/2022,11,11,34,733
+340,Desterro,Embaúba Filmes,Brasil,9/22/2022,16,16,4,721
+341,"Boa mãe, A",Zeta Filmes,França,6/2/2022,8,7,29,720
+342,Jesus Kid,Olhar Distribuição,Brasil,6/9/2022,13,13,5,716
+343,"Colmeia, A",Lança Filmes,Brasil,6/30/2022,13,13,15,716
+344,Shang-Chi e a lenda dos dez anéis,Disney,EUA,9/2/2021,1.728,637,63,715
+345,Sujeito oculto,Lume,Brasil,6/23/2022,0,0,11,706
+346,Tantas Almas,Vitrine Filmes,Colômbia,5/26/2022,13,13,6,702
+347,Mar de dentro,California,Brasil,4/7/2022,9,8,7,699
+348,Como matar a Besta,Vitrine Filmes,Argentina,4/28/2022,11,11,5,675
+349,Sol,DT/Paris,Brasil,12/8/2022,30,27,4,673
+350,"Critical Role 7-Year Anniversary, Campaign 3, Ep17",Cinemark,EUA,3/18/2022,6,3,1,671
+351,"Brigada da chefe, A",Imovision,França,12/29/2022,18,16,1,668
+352,Eternos,Disney,EUA,11/4/2021,2.158,666,59,656
+353,Sociedade do medo,Forte Filmes,Brasil,10/20/2022,12,11,4,644
+354,Lavra,Pandora Filmes,Brasil,10/6/2022,9,9,11,643
+355,Ron bugado,Disney,EUA,10/21/2021,855,505,52,635
+356,Hotel Transilvânia 3 - Férias monstruosas,Sony,EUA,7/12/2018,1.210,628,223,617
+357,"Mesma parte de um homem, A",Olhar Distribuição,Brasil,4/7/2022,6,5,9,615
+358,"Mulher sob influência, Uma",Filmes do Estação,EUA,2/16/2007,0,0,827,610
+359,"Mi iubita, meu amor",Zeta Filmes,França,9/29/2022,9,8,4,590
+360,"Espera de Liz, A",Pandora Filmes,Brasil,3/17/2022,19,19,7,589
+361,Festivais e Mostras 2019,Festivais,Brasil,1/3/2019,1,1,203,589
+362,5 casas,Lança Filmes,Brasil,9/8/2022,6,5,4,585
+363,Pacarrete,Vitrine Filmes,Brasil,11/26/2020,30,27,83,570
+364,George Michael freedom uncut,Trafalgar,EUA,6/16/2022,26,26,1,567
+365,Primavera,O2 Play,Brasil,2/17/2022,12,12,8,565
+366,Odd Taxi: In the woods,Sony,Japão,6/23/2022,11,11,1,561
+367,Aldeotas,Gullane Distribuidora,Brasil,11/10/2022,1,1,6,561
+368,Mostra de Cinema Japonês 2022,Independente,Japão,9/29/2022,1,1,6,558
+369,Tralala,Bonfilm,França,8/4/2022,12,12,4,553
+370,"Parque dos sonhos, O",Paramount,EUA,3/14/2019,561,438,195,552
+371,Annette,Distribuição Própria,EUA,12/23/2021,6,6,4,552
+372,Golias,Bonfilm,França,11/24/2022,9,9,6,536
+373,Mostra-me o Pai,360 WayUp,EUA,12/2/2021,91,84,8,529
+374,Kevin,Embaúba Filmes,Brasil,11/3/2022,13,12,5,526
+375,Paixões recorrentes,O2 Play,Brasil,8/18/2022,7,7,18,522
+376,Supercombo - Ao vivo: Quando a terra era redonda,Super Combo,Brasil,2/17/2022,15,15,1,501
+377,Dentro da caixinha - Segredo de criança,Cineart Filmes,Brasil,3/24/2022,6,6,3,498
+378,No ritmo da vida,A2 Filmes,Canadá,3/3/2022,9,9,2,493
+379,Meu filho é um craque,Pandora Filmes,França,11/24/2022,25,22,3,493
+380,Rebento,Distribuição Própria,Brasil,5/5/2022,1,1,8,491
+381,Cantando na chuva (1952),Warner,EUA,7/30/2020,1,1,116,487
+382,Pajeú,Embaúba Filmes,Brasil,3/31/2022,10,10,9,479
+383,"Teoria dos vidros quebrados, A",Okna Produções,Argentina,8/18/2022,2,2,3,463
+384,Curtas jornadas noite adentro,Livres Filmes,Brasil,9/15/2022,12,12,8,460
+385,Fabian - O mundo está acabando,Zeta Filmes,Alemanha,3/10/2022,6,6,4,454
+386,"Morte habita à noite, A",Vitrine Filmes,Brasil,12/15/2022,11,11,3,452
+387,"Eu, um outro",O2 Play,Brasil,11/10/2022,9,9,4,449
+388,Plano A,A2 Filmes,Alemanha,12/1/2022,5,5,5,448
+389,Cordialmente teus,Pandora Filmes,Brasil,9/22/2022,5,5,5,421
+390,Raya e o último dragão,Disney,EUA,3/4/2021,373,254,90,409
+391,Shortbus - Remasterizado,Imovision,EUA,12/29/2022,8,8,1,407
+392,Diário de viagem,Pandora Filmes,Brasil,11/17/2022,1,1,7,399
+393,Enquanto estamos aqui,Pique-Bandeira Filmes,Brasil,10/6/2022,6,6,12,399
+394,Nós duas,Imovision,França,12/16/2021,13,11,19,389
+395,André Rieu - Maastricht 2022,Cinemark,Holanda,12/1/2022,25,25,1,387
+396,Festival Varilux 2021,Festival Varilux,França,11/24/2021,2,2,15,387
+397,"Presidente improvável, O",Bretz Filmes,Brasil,3/31/2022,11,11,3,383
+398,Critical Role - The Mighty Nein Reunidos Parte 1,Cinemark,EUA,11/18/2022,8,6,1,377
+399,"Abelhinha Maya - E o ovo dourado, A",Playarte,Alemanha,9/23/2021,492,361,55,370
+400,Nunca fomos tão modernos,Pipa Produções,Brasil,4/21/2022,16,13,3,368
+401,Deus tem aids,Vitrine Filmes,Brasil,12/1/2022,14,14,3,357
+402,Maior que o mundo,Imagem,Brasil,8/18/2022,17,16,2,351
+403,Rio de vozes,Pandora Filmes,Brasil,2/17/2022,6,6,4,350
+404,Human life,Marques Filmes,Brasil,3/10/2022,2,1,4,347
+405,"Dia para sempre!, Um",A2 Filmes,Alemanha,6/9/2022,4,4,5,345
+406,Cruella,Disney,EUA,5/27/2021,825,351,83,345
+407,"Professora de violino, A",Filmicca,Alemanha,3/17/2022,3,3,3,344
+408,Sonic - O filme,Paramount,Japão,2/13/2020,1.143,635,140,343
+409,Diários de Otsoga,Vitrine Filmes,França,7/21/2022,6,6,5,343
+410,"Rio de Janeiro de Ho Chi Minh, O",Pipa Produções,Brasil,7/14/2022,7,7,13,338
+411,Virar mar,Vitrine Filmes,Alemanha,7/28/2022,9,9,8,337
+412,Copa do Mundo 2022,Distribuição Própria,Brasil,11/20/2022,0,0,4,334
+413,"Bravos nunca se calam, Os",Lança Filmes,Brasil,11/17/2022,10,10,4,332
+414,Homem-Aranha no Aranhaverso,Sony,EUA,1/10/2019,1.026,581,206,323
+415,Aquilo que eu nunca perdi,Descoloniza Filmes,Brasil,9/8/2022,8,8,4,322
+416,Missão resgate,Imagem,EUA,12/9/2021,476,376,9,322
+417,"Queda, A (BR)",O2 Play,Brasil,7/14/2022,7,7,5,320
+418,"Hora do pesadelo, A",Warner,EUA,5/7/2010,161,148,652,317
+419,Sertânia,Bretz Filmes,Brasil,12/3/2020,5,5,82,306
+420,"Fantástica fábrica de golpes, A",Quechua Films,Brasil,9/1/2022,2,2,3,304
+421,Mulher-Maravilha 1984,Warner,EUA,12/17/2020,2.034,546,104,304
+422,Amarelo manga,Riofilme,Brasil,8/15/2003,0,0,0,300
+423,"Última noite, A",Paris,Inglaterra,12/23/2021,21,12,3,300
+424,Nosferatu,Park Circus,Alemanha,9/17/2015,0,0,372,298
+425,Quem tem medo?,Embaúba Filmes,Brasil,8/4/2022,8,8,5,293
+426,Azor,Vitrine Filmes,Suíça,12/16/2021,14,13,6,288
+427,Madame Satã,Lumière,Brasil,11/8/2002,0,0,0,284
+428,Festivais e Mostras 2020,Festivais,Brasil,1/2/2020,0,0,120,276
+429,Fado tropical,Distribuição Própria,Brasil,7/28/2022,1,1,4,274
+430,Encontro de Cinema Negro Zozimo Bulbul,Distribuição Própria,Brasil,8/30/2017,0,0,270,268
+431,Mudança,Elo Studios,Brasil,9/29/2022,1,1,3,266
+432,Meu tio José,Fênix Filmes,Brasil,10/27/2022,9,9,5,256
+433,Como agradar uma mulher,A2 Filmes,Austrália,12/29/2022,13,12,1,255
+434,Critical Role: The Mighty Nein Reunidos Parte 2,Cinemark,EUA,12/2/2022,6,6,1,251
+435,Cavalo de Santo,Distribuição Própria,Brasil,4/16/2021,0,0,84,250
+436,Harry Potter e a pedra filosofal,Warner,EUA,11/23/2001,0,0,0,249
+437,Eu sei que vou te amar,Própria,Brasil,12/8/2006,0,0,0,249
+438,Cidade de Deus,Lumière,Brasil,8/30/2002,0,0,0,248
+439,Bye bye Brasil (1980),Distribuição Própria,Brasil,2/8/1980,0,0,0,248
+440,"Mão de deus, A",O2 Play,Itália,12/2/2021,13,12,19,241
+441,Sapato 36,Cavídeo,Brasil,8/4/2022,10,10,3,238
+442,Hélio Oiticica,Nossa,Brasil,7/31/2014,2,2,417,235
+443,Mirador,Olhar Distribuição,Brasil,5/5/2022,5,5,10,235
+444,Spirit - O indomável,Universal,EUA,6/10/2021,564,438,79,234
+445,"Tablado e Maria Clara Machado, O",Gravinart Produções Artísticas,Brasil,12/8/2022,2,2,2,231
+446,"Diário para Jordan: Memórias de amor e perda, Um",Sony,EUA,4/28/2022,2,2,2,227
+447,Show,Distribuição Própria,,1/1/2012,0,0,540,222
+448,Pets - A vida secreta dos bichos 2,Universal,EUA,6/27/2019,1.181,676,173,221
+449,Tambores da diáspora,Distribuição Própria,Brasil,3/17/2022,1,1,1,216
+450,Currais,O2 Play,Brasil,4/1/2021,0,0,64,214
+451,Família monstro 2,Paris,EUA,12/9/2021,346,271,36,214
+452,Breve história do planeta verde,Embaúba Filmes,Argentina,12/1/2022,10,10,4,206
+453,Última cidade,Marrevolto Filmes,Brasil,7/21/2022,3,3,2,205
+454,Deus não está morto - O próximo capítulo,California,EUA,11/11/2021,325,252,56,202
+455,Alice Guy-Blaché - A história não contada da primeira cineasta do mundo,Arteplex Filmes,EUA,10/29/2020,14,14,83,192
+456,"Jardim das aflições, O",Distribuição Própria,Brasil,6/1/2017,6,6,244,191
+457,Scooby Doo,Warner,,10/4/2002,0,0,0,191
+458,"Professora de piano, A",Mais Filmes,EUA,3/29/2002,0,0,0,190
+459,"Demônio das onze horas, O",Filmes do Estação,França,6/28/2002,0,0,0,189
+460,"Vez em Veneza, Uma",Zapata Filmes,Itália,11/11/2021,1,1,12,186
+461,Desaparecidos (2021),A2 Filmes,França,8/4/2022,4,4,4,184
+462,"História de família, Uma",Arteplex Filmes,EUA,10/28/2021,14,12,39,184
+463,Madre,Imovision,Espanha,11/25/2021,6,6,17,183
+464,"Escravos de Jó, Os",Sereia Filmes,Brasil,9/29/2022,1,1,3,183
+465,Transversais,Deberton Filmes,Brasil,2/24/2022,2,2,2,180
+466,Liberté,Zeta Filmes,França,3/12/2020,5,5,116,178
+467,Extraordinário,Paris,EUA,12/7/2017,879,539,262,171
+468,Yalda - Uma noite de perdão,Imovision,França,12/9/2021,8,8,16,169
+469,"Massacre da serra elétrica, O",Synapse,EUA,2/16/2023,15,15,0,169
+470,Aleluia - O canto infinito do Tincoã,Descoloniza Filmes,Brasil,11/18/2021,1,1,13,168
+471,"Christine, o carro assassino (1983)",Distribuição Própria,EUA,7/16/2020,1,1,94,167
+472,Hiroshima meu amor,Zeta Filmes,Japão/França,3/9/2017,11,10,303,164
+473,"Grande Irmão - O dia que durou 21 anos 2, O",Elo Studios,Brasil,9/8/2022,1,1,2,163
+474,Brado,Imovision,Itália,10/26/2023,7,6,1,160
+475,"Lutar, lutar, lutar",Embaúba Filmes,Brasil,11/11/2021,24,22,29,160
+476,Dissonantes,Disney,Brasil,6/23/2022,5,5,6,159
+477,Doutor Estranho,Disney,EUA,11/3/2016,1.358,622,312,151
+478,Coisa pública,Distribuição Própria,Brasil,9/22/2022,2,2,2,151
+479,Pão e gente,Embaúba Filmes,Brasil,5/5/2022,1,1,4,149
+480,Milagre das águas,Distribuição Própria,Brasil,9/15/2022,1,1,4,147
+481,"Cavalo de Turim, O",Bretz Filmes,Hungria,1/7/2016,0,0,364,147
+482,Fora de cena,Kinopus/Elo Studios,Brasil,2/17/2022,1,1,6,146
+483,Amarcord,Mais Filmes,Itália,1/10/2003,0,0,0,142
+484,Noites alienígenas,Vitrine Filmes,Brasil,3/30/2023,28,27,0,141
+485,Nomadland,Disney,EUA,4/29/2021,128,108,86,136
+486,Contatado,Pandora Filmes,Brasil,10/13/2022,5,5,3,134
+487,Charuto de mel,Imovision,França,11/11/2021,10,9,22,133
+488,"Cadeiras, As",Distribuição Própria,Brasil,10/13/2022,1,1,1,124
+489,"Ossos da saudade, Os",Olhar Distribuição,Brasil,9/22/2022,3,3,8,123
+490,Vaga carne,Embaúba Filmes,Brasil,3/19/2020,0,0,131,122
+491,Cabra marcado para morrer,H2O Films,Brasil,9/14/2012,1,1,527,121
+492,Êxtase,Descoloniza Filmes,Brasil,12/1/2022,6,6,4,121
+493,Toada para José Siqueira,Distribuição Própria,Brasil,6/2/2022,1,1,5,117
+494,Adeus à linguagem,Imovision,França,7/30/2015,24,21,375,116
+495,Lola e o mar,Filmicca,Bélgica,4/14/2022,2,2,2,115
+496,Capitã Marvel,Disney,EUA,3/7/2019,2.305,714,195,113
+497,Sapatinho vermelho e os sete anões,Paris,EUA,12/31/2020,518,404,99,111
+498,Sete anos em maio,Embaúba Filmes,Brasil,3/19/2020,0,0,111,111
+499,007 - Sem tempo para morrer,Universal,EUA,9/30/2021,1.894,641,27,108
+500,"Comedy club, O",SuperOito Produções,Brasil,10/27/2022,3,3,5,106
+501,Que mal eu fiz a Deus? 2,A2 Filmes,França,12/2/2021,7,7,9,105
+502,Los conductos,Olhar Distribuição,Colômbia,8/18/2022,5,5,4,104
+503,Esse fim de semana,Pandora Filmes,Argentina,3/10/2022,2,2,2,103
+504,Contágio zero,Cinecolor,Canadá,8/4/2022,5,4,1,103
+505,Cabeça de nêgo,Corte Seco Filmes,Brasil,10/21/2021,9,8,57,102
+506,"Ivan, o TerriRvel",Fênix Filmes,Brasil,9/15/2022,1,1,14,99
+507,Não olhe para cima,O2 Play,EUA,12/9/2021,46,36,16,99
+508,Terremoto,California,Noruega,3/12/2020,352,307,131,97
+509,Desvio,Vitrine Filmes,Brasil,4/29/2021,3,3,61,93
+510,"Reflexo do lago, O",Elo Studios,Brasil,8/11/2022,1,1,3,92
+511,Turma da Mônica - Laços,DT/Paris,Brasil,6/27/2019,743,496,181,91
+512,"Batalha de Shangri-lá, A",Moro Filmes,Brasil,8/11/2022,4,4,2,91
+513,Babenco - Alguém tem que ouvir o coração e dizer: parou,Imovision,Brasil,11/26/2020,49,44,105,90
+514,Dois irmãos - Uma jornada fantástica,Disney,EUA,3/5/2020,1.359,647,137,90
+515,Jurassic World - Reino ameaçado,Universal,EUA,6/21/2018,1.518,695,231,90
+516,Passagem secreta,A2 Filmes,Brasil,1/27/2022,5,5,12,90
+517,Nunca mais serei a mesma,Bretz Filmes,Brasil,12/1/2022,1,1,4,89
+518,Venom - Tempo de carnificina,Sony,EUA,10/7/2021,1.867,614,35,89
+519,Nove dias,Sony,EUA,12/9/2021,10,10,4,86
+520,Brasileiríssima - A história da telenovela,Bretz Filmes,Brasil,6/9/2022,3,3,3,83
+521,"Doce vida, A",Zeta Filmes/FJ Cines,Itália,8/20/2015,12,12,369,82
+522,Jumanji - Próxima fase,Sony,EUA,1/16/2020,1.453,649,143,81
+523,"Mulher fantástica, Uma",Imovision,Chile,9/7/2017,23,23,235,81
+524,Festivais e Mostras 2021,Festivais,Brasil,3/4/2021,1,1,95,81
+525,7 Cortes de cabelo no Congo,Consciência Negra,Brasil,11/3/2022,1,1,3,79
+526,Enquanto houver amor,California,Reino Unido,11/18/2021,6,6,23,79
+527,Amores expressos,Distribuição Própria,Hong Kong,12/9/2021,2,2,23,78
+528,Sangre,Distribuição Própria,Argentina,12/3/2020,0,0,106,77
+529,Que horas ela volta?,Pandora Filmes,Brasil,8/27/2015,89,87,354,77
+530,45ª Mostra Internacional de Cinema SP 2021,Distribuição Própria,Brasil,10/21/2021,14,8,52,75
+531,Oito e Meio (1963),FJ Cines,França,8/6/2020,1,1,110,74
+532,Aquarius,Vitrine Filmes,Brasil,9/1/2016,103,90,288,74
+533,Festival Mulheres no Cinema 2022,Distribuição Própria,Itália,11/10/2022,3,3,1,73
+534,"Divã na Tunísia, Um",Imovision,França,3/11/2021,0,0,62,72
+535,Encontros (2019),Imovision,França,10/3/2019,12,11,137,71
+536,Cidadãos do mundo,Imovision,Itália,9/9/2021,20,19,67,71
+537,"Boas vidas, Os",FJ Cines,França,9/8/2022,1,1,1,70
+538,Exorcismos e demônios,Imagem/California,EUA,4/19/2018,447,377,202,69
+539,"Orfãos, Os",Universal,EUA,1/30/2020,312,273,141,69
+540,"Trem da utopia, O",Distribuição Própria,Brasil,5/12/2022,4,4,2,68
+541,FICI 2022 - Fest. Int. Cin. Inf.,FICI - Fest. Int. Cin. Inf.,Brasil,11/12/2022,2,1,1,67
+542,Madalena,Vitrine Filmes,Brasil,12/9/2021,4,4,25,66
+543,Ema,Imovision,Chile,8/12/2021,18,18,40,66
+544,No coração do mundo,Embaúba Filmes,Brasil,8/1/2019,16,15,161,66
+545,"Noite americana, A",Mais Filmes,França,5/23/2003,0,0,0,65
+546,Tito e os pássaros,Elo Studios,Brasil,2/14/2019,38,35,177,64
+547,Bagdá vive em mim,Arteplex Filmes,Suíça,9/2/2021,18,18,52,63
+548,"Aventuras de Molière, um irreverente e adorável sedutor, As",Imagem,França,7/18/2008,12,12,730,62
+549,Fale com as abelhas,Arteplex Filmes,Inglaterra,1/21/2021,21,18,85,62
+550,Armadilha explosiva,A2 Filmes,França,6/16/2022,2,2,1,61
+551,Doutor Gama,Elo Studios,Brasil,8/5/2021,11,10,69,61
+552,"Jovem Ahmed, O",Imovision,França,2/20/2020,9,7,148,60
+553,"Auto da compadecida, O (2000)",Globo Filmes,Brasil,6/26/2020,1,1,114,59
+554,UglyDolls,Diamond,EUA,5/16/2019,426,353,145,59
+555,"Voz da lua, A",FJ Cines,França,9/8/2022,1,1,1,58
+556,"Espelho, O",Playarte,EUA,7/3/2014,131,127,422,57
+557,Bacurau,Vitrine Filmes,Brasil,8/29/2019,321,242,164,55
+558,Solaris,Fox,EUA,3/28/2003,0,0,0,55
+559,Escrita íntima,Gullane Distribuidora,Brasil,6/9/2022,3,3,1,55
+560,Sibyl,Imovision,França,7/15/2021,12,11,44,54
+561,Morto não fala,Pagu Pictures,Brasil,10/10/2019,79,71,159,54
+562,Contos do amanhã,Europa,Brasil,12/9/2021,9,9,50,53
+563,Muribeca,Descoloniza Filmes,Brasil,3/2/2023,8,8,1,53
+564,Otto - de trás p/ diante,Cavídeo,Brasil,12/29/2022,1,1,1,52
+565,Cicatrizes,Arteplex Filmes,Sérvia,2/13/2020,18,16,118,51
+566,Nossa Senhora do Nilo,Pandora Filmes,França,1/5/2023,17,16,0,51
+567,Platamama,Paideia Filmes,Brasil,8/4/2022,1,1,2,51
+568,Alice e Peter - Onde nascem os sonhos,Imagem,EUA,6/3/2021,274,227,80,50
+569,Edifício Master,Riofilme,Brasil,11/22/2002,0,0,0,49
+570,Aznavour por Charles,Imovision,França,2/11/2021,6,6,66,49
+571,Corrente do mal,California,EUA,8/27/2015,174,162,374,48
+572,Mulheres de Havana,Distribuição Própria,Brasil,12/15/2022,1,1,1,48
+573,"Animal amarelo, Um",Olhar Distribuição,Brasil,8/26/2021,9,9,46,46
+574,Mato seco em chamas,Vitrine Filmes,Brasil,2/23/2023,17,17,0,45
+575,Festival do Rio 2019,Festivais,Brasil,12/9/2019,15,8,128,45
+576,Lá vamos nós,Imovision,Israel,11/4/2021,6,5,13,45
+577,"Vida invisível, A",Sony / Vitrine Filmes,Brasil,10/31/2019,0,0,137,44
+578,Cora,Pandora Filmes,Brasil,12/23/2021,1,1,3,44
+579,Fim de festa,Imovision,Brasil,3/5/2020,21,18,115,43
+580,"Menino e o mundo, O",Elo Studios,Brasil,1/3/2014,11,11,457,43
+581,"Casa das coelhinhas, A",Sony,EUA,10/10/2008,91,85,720,42
+582,No outro encontro você,Bretz Filmes,Brasil,9/29/2022,2,2,5,40
+583,Shazam!,Warner,EUA,4/4/2019,1.557,666,184,40
+584,Comboio de sal e açúcar,Livres Filmes,Portugal/França/Brasil,6/7/2018,15,13,236,40
+585,"Homem que vendeu sua pele, O",Pandora Filmes,Tunísia,10/7/2021,16,16,63,40
+586,"Viúva das sombras, A",Paris,Rússia,3/4/2021,398,324,50,40
+587,Poetas do céu,Pandora Filmes,Brasil,7/28/2022,1,1,9,39
+588,Porfírio do Amaral - A verdade sobre o samba,Moro Filmes,Brasil,12/1/2022,2,1,1,38
+589,Pitanga,Elo Studios,Brasil,4/6/2017,17,17,294,38
+590,Fabiana,Olhar Distribuição,Brasil,3/10/2022,1,1,1,38
+591,Divinas Divas,Vitrine Filmes,Brasil,6/22/2017,25,23,247,37
+592,Resident Evil - Bem-vindo a Raccoon City,Sony,EUA,12/2/2021,739,555,5,37
+593,Tom & Jerry - O filme,Warner,EUA,2/18/2021,1.148,577,78,36
+594,"Branco sai, preto fica",Vitrine Filmes,Brasil,3/19/2015,7,5,402,36
+595,Libelu - Abaixo a ditadura,Boulevard Filmes,Brasil,5/13/2021,5,5,66,36
+596,Quanto basta - O tempero do chef,Gullane Distribuidora,Itália,1/24/2023,1,1,0,35
+597,Rainha de copas,Arteplex Filmes,Dinamarca,9/12/2019,21,18,137,34
+598,Nunca mais nevará,Imovision,Polônia,8/19/2021,5,5,39,33
+599,Arthur Moreira Lima - Um piano para todos,A2 Filmes,Brasil,11/10/2022,1,1,2,33
+600,Meu fim. Seu começo.,Arteplex Filmes,Alemanha,9/30/2021,19,19,31,33
+601,"Beijo no asfalto, O",Art House Movies,Brasil,12/6/2018,23,22,198,33
+602,Suzanne Daveau,Bretz Filmes,Portugal,5/26/2022,3,3,3,33
+603,Estou me guardando para quando o carnaval chegar,Vitrine Filmes,Brasil,7/11/2019,14,14,138,32
+604,Cisne negro,Fox,EUA,2/4/2011,176,174,604,32
+605,M8 - Quando a morte socorre a vida,DT/Paris,Brasil,12/3/2020,106,94,103,32
+606,"Confeiteiro, O",Imovision,Alemanha,12/27/2018,17,16,168,32
+607,Super Bowl 2022,Distribuição Própria,EUA,2/13/2022,1,1,1,31
+608,Pixinguinha - Um homem carinhoso,DT/Paris,Brasil,11/11/2021,90,70,57,31
+609,Visões do império,Bretz Filmes,Portugal,3/10/2022,2,2,1,31
+610,Meu amigo hindu,Europa,Brasil,3/3/2016,50,44,351,30
+611,"Última floresta, A",Gullane Distribuidora,Brasil,9/9/2021,5,5,66,30
+612,Garota sombria caminha pela noite,Imovision,EUA,12/17/2015,8,5,359,29
+613,Doce entardecer na Toscana,Arteplex Filmes,Polônia,3/12/2020,24,23,114,29
+614,"Mulher da luz própria, A",Mercúrio Produções,Brasil,4/8/2021,1,1,62,28
+615,Três faces,Imovision,Irã,4/4/2019,8,6,155,28
+616,Em pedaços,Imovision,Alemanha/ França,3/15/2018,23,22,207,27
+617,Divertida mente,Disney,EUA,6/18/2015,879,485,383,26
+618,Brasil África - Um elo natural,Bretz Filmes,Brasil,7/28/2022,2,2,3,26
+619,Adam,Arteplex Filmes,França,11/14/2019,16,15,142,26
+620,Machuca,Mais Filmes,Chile,1/14/2005,0,0,0,26
+621,Macunaíma,Filmes do Serro / Videofilmes,Brasil,11/2/2006,0,0,0,26
+622,Nunca aos domingos,Mais Filmes,Grécia,5/16/2003,0,0,0,26
+623,Afterimage,Imovision,Polônia,8/17/2017,19,18,235,25
+624,Dona Flor e seus dois maridos,DT/Paris,Brasil,11/2/2017,44,41,241,25
+625,Como ela faz?,Distribuição Própria,Brasil,3/4/2021,1,1,91,25
+626,Bixa Travesty,Arteplex Filmes,Brasil,11/21/2019,15,10,122,25
+627,"Disco normal, Um",Distribuição Própria,Brasil,11/24/2022,1,1,1,25
+628,Azougue Nazaré,Inquieta,Brasil,11/14/2019,13,13,120,24
+629,"Quarto ao lado, O",Distribuição Própria,Brasil,12/15/2022,1,1,1,23
+630,Aos olhos de Ernesto,Elo Studios,Brasil,9/17/2020,2,2,79,23
+631,Noite passada em Soho,Universal,Reino Unido,11/18/2021,312,260,19,23
+632,"Encantado, o Brasil em desencanto",Distribuição Própria,Brasil,12/12/2022,1,1,1,22
+633,Spirit - O corcel indomável,UIP,EUA,7/5/2002,0,0,0,22
+634,Amigo Arrigo,Elo Studios,Brasil,11/4/2021,4,4,21,21
+635,Chateau - Paris,Europa,França,3/22/2018,5,5,245,20
+636,Timbuktu,Imovision,Mauritânia/ França,1/22/2015,4,4,409,20
+637,"Invasor, O",Pandora Filmes,Brasil,4/5/2002,0,0,0,20
+638,1º BKF Knuckle Fighting Brasil 2022,Distribuição Própria,Brasil,11/6/2022,1,1,1,20
+639,Retablo,Arteplex Filmes,Peru,11/7/2019,8,6,132,20
+640,Paterson,Fênix Filmes,EUA,4/20/2017,27,22,295,20
+641,"Nuvem rosa, A",O2 Play,Brasil,8/26/2021,7,6,54,19
+642,Alvorada,Vitrine Filmes,Brasil,5/27/2021,14,12,59,19
+643,"Suspeitos, Os",Paris,EUA,10/18/2013,219,211,480,19
+644,"Juventude, A",Fênix Filmes,Itália/ França,3/31/2016,20,17,350,18
+645,"Almas que dançam no escuro, As",Elite Filmes,Brasil,12/29/2022,3,3,1,18
+646,Varda por Agnès,Imovision,França,5/9/2019,14,12,151,18
+647,DNA,Vitrine Filmes,França,9/30/2021,50,41,20,17
+648,Ela volta na quinta,Vitrine Filmes,Brasil,2/25/2016,4,4,356,17
+649,"Noite do fogo, A",Vitrine Filmes,México,11/18/2021,10,10,21,17
+650,"Tempo que resta, O",California,França,8/25/2006,0,0,0,17
+651,Mokoi Tekoá Petei Jeguatá,Distribuição Própria,Brasil,6/9/2022,1,1,4,17
+652,"Último País, O",CUP Filmes,Cuba,6/2/2022,1,1,3,16
+653,Estômago,Downtown,Brasil,4/11/2008,19,19,740,16
+654,Hoje eu quero voltar sozinho,Vitrine Filmes,Brasil,4/10/2014,37,33,445,16
+655,"Nosso planeta, nosso legado",Bonfilm,França,11/25/2021,0,0,13,16
+656,Pássaros de verão,Arteplex Filmes,Colômbia/ Dinamarca/ México/ Alemanha/ Suíça/ França,8/22/2019,7,6,143,16
+657,"Adoniran, meu nome é João Rubinato",Pandora Filmes,Brasil,1/23/2020,10,10,124,15
+658,Tudo bem,Própria,Brasil,12/8/2006,0,0,0,14
+659,Em busca do U-513,Distribuição Própria,Brasil,1/27/2022,1,1,1,14
+660,Garoto Cósmico,Downtown,Brasil,1/11/2008,28,28,733,13
+661,Alice no mundo da internet,Synapse,Brasil,12/22/2022,2,2,1,13
+662,"Noite antes do Natal, Uma",Tortuga Studios,Brasil,12/22/2022,1,1,1,13
+663,"Pontes de Madison, As (1995)",Warner,EUA,9/24/2020,1,1,71,12
+664,"homem que virou suco, O",Raiz Produções,Brasil,9/14/2007,0,0,769,12
+665,David Lynch - a vida de um artista,Fênix Filmes,EUA,8/31/2017,17,16,276,12
+666,"Saneamento básico, o filme",Sony,Brasil,7/20/2007,0,0,777,12
+667,"Cinema, aspirinas e urubus",Imovision,Brasil,11/11/2005,0,0,0,11
+668,"Rogai por nós, os santos no Brasil",Film Connection,Brasil,5/5/2022,2,2,1,11
+669,Casulo,Olhar Distribuição,Alemanha,12/9/2021,4,4,7,11
+670,"Ciúme, O",Tucumán,França,11/20/2014,10,9,421,10
+671,Santiago,Videofilmes,Brasil,8/24/2007,0,0,791,10
+672,"Tradutores, Os",Imovision,França,10/28/2021,21,18,22,10
+673,Sinfonia da necrópole,Vitrine Filmes,Brasil,4/14/2016,5,5,342,10
+674,Ewé de Òsányìn: O segredo das folhas,Consciência Negra,Brasil,11/10/2022,1,1,1,9
+675,Janela indiscreta,Park Circus,,3/3/2016,99,50,335,9
+676,"Raul Seixas: O início, o fim e o meio",Paramount,Brasil,3/23/2012,34,34,533,9
+677,Minha mãe é uma peça - O filme,DT/Paris,Brasil,6/21/2013,416,331,468,9
+678,"Herdeiras, As",Imovision,Paraguai,8/30/2018,23,20,184,9
+679,"Palhaço, O (2011)",Imagem,Brasil,10/28/2011,302,256,555,9
+680,Alice dos Anjos,Elo Studios,Brasil,11/24/2022,1,1,3,8
+681,"Manicômio, O",Paris,Alemanha,1/3/2019,202,160,164,8
+682,Halloween kills - O terror continua,Universal,EUA,10/14/2021,787,601,53,8
+683,Meu amigo Fela,O2 Play,Brasil,11/7/2019,18,17,159,8
+684,De perto ela não é normal,H2O Films,Brasil,10/29/2020,13,11,95,8
+685,Travessia,O2 Play,Brasil,3/23/2017,34,33,258,8
+686,"Última estrada da praia, A",Okna Produções,Brasil,9/16/2011,2,2,586,8
+687,"Amor em Paris, Um",Tucumán,França,9/4/2014,15,13,432,8
+688,Belair,Pipa Produções,Brasil,6/10/2011,8,8,574,8
+689,Sem ressentimentos,Olhar Distribuição,Alemanha,12/16/2021,4,4,7,7
+690,#,Distribuição Própria,Brasil,12/8/2022,1,1,1,7
+691,Pra ficar na história,Pipoca & Filmes / Forte Filmes,Brasil,3/8/2018,1,1,220,7
+692,Não devore meu coração,Fênix Filmes,Brasil,11/23/2017,92,91,240,7
+693,Eu não sou seu negro,Imovision,EUA/ França,2/16/2017,25,18,260,7
+694,Martirio,Vitrine Filmes,Brasil,4/13/2017,18,17,269,7
+695,Temporada,Vitrine Filmes,Brasil,1/17/2019,18,18,202,7
+696,"Nó do diabo, O",Elo Studios,Brasil,6/14/2018,3,3,198,7
+697,Amor fati,Bretz Filmes,Portugal,12/16/2021,1,1,6,7
+698,Cinema novo,Vitrine Filmes,Brasil,11/3/2016,16,16,293,7
+699,Boi neon,Imovision,Brasil /Uruguai,1/14/2016,33,26,335,6
+700,"Under-Undergrounds – O Começo, Os",Vitrine Filmes,Brasil,2/20/2020,0,0,105,6
+701,"Curto verão de Hilda, O",Conexão Cultural,Uruguai,11/10/2022,1,1,1,6
+702,No táxi do Jack,Bretz Filmes,Portugal,12/16/2021,1,1,6,6
+703,"Visages, villages",Fênix Filmes,França,1/25/2018,13,13,255,5
+704,Broder,Sony,Brasil,4/21/2011,33,31,607,5
+705,Filhas do vento,Riofilme,Brasil,9/9/2005,0,0,0,4
+706,Dominguinhos,Espaço Filmes,Brasil,5/22/2014,13,13,403,4
+707,"Milagre de Santa Luzia, O",Própria,Brasil,8/28/2009,5,5,650,4
+708,"Noite em 67, Uma",Videofilmes,Brasil,7/30/2010,22,21,620,4
+709,Dois casamentos,Livres Filmes,Brasil,7/2/2015,2,2,377,4
+710,"Cabeça de Gumercindo Saraiva, A",Elo Studios,Brasil,10/25/2018,22,20,214,4
+711,Corpo elétrico,Vitrine Filmes,Brasil,8/17/2017,19,19,252,4
+712,Disforia,Lança Filmes,Brasil,3/12/2020,18,18,142,4
+713,"Carlota Joaquina, Princesa do Brasil",Park Circus,Brasil,10/8/2015,52,37,349,4
+714,Vida de menina,Europa/ MAM,Brasil,9/30/2005,0,0,0,3
+715,Ilha dos cachorros,Fox,EUA,7/19/2018,14,11,226,3
+716,"Normais, Os",Lumière,Brasil,10/24/2003,0,0,0,3
+717,"Máquina infernal, A",Embaúba Filmes,Brasil,5/5/2022,2,2,1,3
+718,Café com canela,Arco Audiovisual,Brasil,8/16/2018,2,2,224,3
+719,Billie Eilish live at the O2 ,Trafalgar,EUA,1/27/2023,170,96,0,3
+720,"Josey Wales, o fora da lei",Warner,EUA,1/20/2022,1,1,2,3
+721,"Sobre amigos, amor e vinho",Tucumán,França,8/13/2015,28,27,383,3
+722,Bob Cuspe - Nós não gostamos de gente,Vitrine Filmes,Brasil,11/11/2021,22,19,11,3
+723,Historietas assombradas - O filme,Vitrine Filmes,Brasil,11/2/2017,221,215,231,2
+724,Amarração do amor,DT/Paris,Brasil,10/14/2021,293,211,24,2
+725,Liga da Justiça,Warner,EUA,11/15/2017,1.673,684,248,2
+726,First cow - A primeira vaca da América,Vitrine Filmes,EUA,6/10/2021,6,6,41,2
+727,"Senhores da guerra, Os",Walper Ruas,Brasil,9/15/2016,15,15,322,2
+728,Eu me lembro,Pandora Filmes,Brasil,9/29/2006,0,0,0,2
+729,"Imperdoáveis, Os",Warner,EUA,1/20/2022,1,1,2,2
+730,Jogo subterrâneo,Buena Vista,Brasil,4/1/2005,0,0,0,2
+731,Procura-se,Warner,Brasil,11/25/2022,1,1,1,2
+732,"Falta que nos move, A",Espaço Filmes,Brasil,7/1/2011,12,12,586,2
+733,Sangue do meu sangue,Fênix Filmes,Itália/ França,12/1/2016,13,11,315,1
+734,"Sombra de duas mulheres, À",Fênix Filmes,França/ Suiça,5/10/2015,0,0,398,1
+735,Vingança,Fênix Filmes,França,6/7/2018,14,14,236,1
+736,"Visita, A",Universal,EUA,11/26/2015,222,203,343,1
+737,Eles só usam black tie,Fênix Filmes,África do Sul,3/9/2017,0,0,301,1
+738,Dilili em Paris,Imovision,França,2/13/2020,12,10,140,1
+739,Sniper americano,Warner,EUA,2/19/2015,203,170,363,1
+740,Alguém como eu,DT/Paris,Brasil/ Portugal,5/24/2018,134,108,202,1
+741,Migração alada,Mais Filmes/ Col,França,11/14/2003,0,0,0,0
+742,"Lula, o filho do Brasil",Downtown/Europa,Brasil,1/1/2010,357,271,679,0
+743,Arábia,Embaúba Filmes / Pique-Bandeira Filmes,Brasil,4/5/2018,12,12,222,0
+744,"Pior vizinho do mundo, O",Sony,EUA,1/26/2023,637,482,0,0
+745,Estrelas além do tempo,Fox,EUA,2/2/2017,305,248,303,0
+746,Quem vai ficar com Mário?,DT/Paris,Brasil,6/10/2021,174,131,59,0
+747,"Jantar, O",California,EUA,9/7/2017,27,23,274,0
+748,"Dia para Susana, Um",Vitrine Filmes,Brasil,10/3/2019,3,3,141,0
+749,Gato de Botas 2 - O último pedido,Universal,EUA,1/5/2023,1.821,749,0,0
+750,"Aventuras de Gui e Estopa, As",Elo Studios,Brasil,1/27/2022,1,1,1,0
+751,Para minha amada morta,Vitrine Filmes,Brasil,3/31/2016,26,22,332,0
+752,"Minha fortaleza, os filhos de fulano",Distribuição Própria,Brasil,2/25/2021,1,1,57,0
+753,Homem onça,Pandora Filmes,Brasil,8/26/2021,14,14,48,0
+754,Como cães e gatos 2 - A vingança de Kitty Galore,Warner,EUA,9/3/2010,196,188,644,0
+755,Angry Birds 2 - O filme,Sony,EUA,10/3/2019,771,539,159,0
+756,Do luto à luta,Mais Filmes,Brasil,10/6/2006,0,0,0,0
+757,Legalidade,Boulevard Filmes,Brasil,9/12/2019,32,31,152,0
+758,Desobediência,Sony,EUA,6/21/2018,31,27,233,0
+759,Magnum 44 (1973),Warner,EUA,6/24/2021,1,1,32,0
+760,Tempo,Universal,EUA,7/29/2021,499,374,28,0
+761,Ghostbusters - Mais além (2021),Sony,EUA,11/18/2021,1.204,562,12,0
+762,"Lenda de Candyman, A",Universal,EUA,8/26/2021,546,400,33,0
+763,Bela vingança,Universal,Reino Unido,5/13/2021,113,97,49,0
+764,Gran Torino,Warner,EUA,3/20/2009,109,105,672,0
+765,Invictus,Warner,EUA,1/29/2010,82,76,627,0
+766,Colegas,Europa,Brasil,3/1/2013,145,141,496,0
+767,"Chacrinha, eu vim para confundir e não para explicar",Bretz Filmes,Brasil,1/28/2021,2,2,79,0
+768,Histórias que nosso cinema (não) contava,Boulevard Filmes,Brasil,8/23/2018,5,5,218,0
+769,Judas e o Messias Negro,Warner,EUA,2/25/2021,86,72,61,0
+,,,,,,,,97.909.568
